@@ -1,4 +1,4 @@
-<img width="956" height="417" alt="Screenshot 2025-12-30 043032" src="https://github.com/user-attachments/assets/2131700c-39c2-4de4-9831-2dbf65ec4ba7" /># Go Email Dispatcher (Producer–Consumer)
+# Go Email Dispatcher (Producer–Consumer)
 
 A concurrent email dispatching service written in Go using
 goroutines and channels. Emails are queued and processed
